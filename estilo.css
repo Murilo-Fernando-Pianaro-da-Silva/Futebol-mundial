@@ -1,7 +1,16 @@
 h1 {
     font-size: 32px;
     color: blue;
+    text-align: center;
 }
 ul{
     font-size: 25px;
+}
+body{
+    background-color: rgba(171, 191, 194, 0.733);
+}
+main{
+    background-color: #c9c9c9;
+    width: 632px;
+    margin: auto;
 }
