@@ -14,16 +14,27 @@ main{
     width: 632px;
     margin: auto;
 }
+div{
+    display: flex;
+    align-items: center;
+    padding: 0 200px;
+}
 #btn{
-    font-family:arial;
+    font-family:Arial, Helvetica, sans-serif;
     font-size: 17px;
     text-transform: uppercase;
     font-weight: 700;
     border: none;
     padding: 10px;
     cursor: pointer;
-    background: rgb(126, 8, 8);
-    box-shadow: 0px 5px 5px rgb(54, 14, 14);
+    background: rgb(22, 85, 3);
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    box-align: center;
+   
+
 }
+p{
+font-size: 27px;
+    }
 
     
