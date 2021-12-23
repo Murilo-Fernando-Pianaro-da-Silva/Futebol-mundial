@@ -3,7 +3,7 @@ h1 {
     color:   rgb(2, 0, 14);
     text-align: center;
 }
-ul{
+li{
     font-size: 31px;
 }
 body{
@@ -11,8 +11,9 @@ body{
 }
 main{
     background-color: #80857e;
-    width: 632px;
+    width: 690px;
     margin: auto;
+    text-align: center;
 }
 div{
     display: flex;
